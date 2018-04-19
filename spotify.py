@@ -50,7 +50,7 @@ class Spotify(unittest.TestCase):
       url = title['href']
       self.innerPlaylist(url)
 
-  def replaced(self, word):
+  def replace_text(self, word):
     while True:
       word = word.replace('-', '')
       word = word.replace(',', '')
@@ -69,7 +69,7 @@ class Spotify(unittest.TestCase):
     row = soup.find_all(attrs={'class':'tracklist-row'})
     meta = soup.find('div', attrs={'class':'entity-name'})
     title = meta.find('h2').text
-    title = self.replaced(title)
+    title = self.replace_text(title)
     fileName = title.lower() + '.json'
     list = []
     for item in row:
