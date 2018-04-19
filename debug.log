@@ -1,0 +1,18 @@
+[0418/201756.207:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0418/201756.227:ERROR:exception_snapshot_win.cc(88)] thread ID 7416 not found in process
+[0418/201756.227:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0418/202434.413:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0418/202434.414:ERROR:exception_snapshot_win.cc(88)] thread ID 5788 not found in process
+[0418/202434.414:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0418/230325.868:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0418/230325.991:ERROR:exception_snapshot_win.cc(88)] thread ID 3668 not found in process
+[0418/230325.991:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0419/023411.880:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0419/023411.956:ERROR:exception_snapshot_win.cc(88)] thread ID 7792 not found in process
+[0419/023411.956:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0419/023832.441:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0419/023832.584:ERROR:exception_snapshot_win.cc(88)] thread ID 10572 not found in process
+[0419/023832.584:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0419/030917.046:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0419/030917.089:ERROR:exception_snapshot_win.cc(88)] thread ID 4784 not found in process
+[0419/030917.089:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
